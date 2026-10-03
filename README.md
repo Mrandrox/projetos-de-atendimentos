@@ -1,5 +1,14 @@
 # Portuga Pedidos — app instalável para Android
 
+<p align="center">
+  <a href="https://github.com/Mrandrox/projetos-de-atendimentos/archive/refs/heads/main.zip"><img alt="Baixar app em ZIP" src="https://img.shields.io/badge/BAIXAR_APP-ZIP-16833c?style=for-the-badge"></a>
+  <a href="https://mrandrox.github.io/projetos-de-atendimentos/"><img alt="Instalar no Android" src="https://img.shields.io/badge/INSTALAR_NO_ANDROID-ABRIR_APP-2878d0?style=for-the-badge"></a>
+</p>
+
+**Para baixar:** toque em **BAIXAR APP — ZIP** acima. Para instalar no Android, abra **INSTALAR NO ANDROID — ABRIR APP** no Google Chrome e escolha **Instalar app** ou **Adicionar à tela inicial**.
+
+O ZIP contém os arquivos do projeto. Para Bluetooth e instalação como app, use o endereço HTTPS acima no Chrome; abrir o HTML extraído diretamente não habilita esses recursos.
+
 O aplicativo mantém o HTML original e acrescenta:
 
 - instalação como app pelo Google Chrome no Android;
